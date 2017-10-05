@@ -1,0 +1,18 @@
+{
+    "name": "october/{{ name }}",
+    "type": "october-theme",
+    "description": "Liip OctoberCMS theme",
+    "keywords": ["october", "cms", "liip", "theme"],
+    "license": "MIT",
+    "authors": [
+    ],
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
