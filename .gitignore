@@ -18,3 +18,14 @@ selenium.php
 
 # for netbeans
 nbproject
+
+# Custom ignores
+/node_modules
+/themes/liip/assets/mix-manifest.json
+/themes/liip/assets/css/app.min.css
+/themes/liip/assets/css/framework.extras.min.css
+/themes/liip/assets/js/app.min.js
+/themes/liip/assets/js/jquery.min.js
+/themes/liip/assets/js/framework.extras.min.js
+/themes/liip/assets/fonts/vendor/*
+/themes/liip/assets/images/vendor/*
